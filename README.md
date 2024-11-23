@@ -82,10 +82,6 @@
       src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black"/>&nbsp
             <img
       src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp
-            <img
-      src=""/>&nbsp
-            <img
-      src=""/>&nbsp
 </div>
 
 <br>
